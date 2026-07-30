@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.taiatari.taiatarigeemu",
+        "sha256_cert_fingerprints": ["1B:9E:0B:7E:04:94:10:91:35:5B:14:B5:CC:F1:75:A3:50:59:98:9E:D4:5B:71:09:E4:B1:BC:6E:B1:55:D0:DD"]
+      }
+    }]
